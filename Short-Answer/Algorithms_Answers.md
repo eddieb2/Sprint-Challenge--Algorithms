@@ -2,10 +2,9 @@
 
 ## Exercise I
 
-a)
+a) O(n)
 
-
-b)
+b) 
 
 
 c)
